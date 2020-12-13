@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cocktail Bar</string>
+    <string name="cocktail_list_title">Cocktail list</string>
+    <string name="cocktail_image_description">Cocktail image</string>
+    <string name="network_error">Data could not be fetched from web sevice.</string>
+    <string name="number_of_cocktails_text">Number of results: %1$d</string>
+</resources>
